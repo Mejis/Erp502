@@ -1,0 +1,7 @@
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\bin\Debug\CSharpIntro.SecondApp.exe.config
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\bin\Debug\CSharpIntro.SecondApp.exe
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\bin\Debug\CSharpIntro.SecondApp.pdb
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\obj\Debug\CSharpIntro.SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\obj\Debug\CSharpIntro.SecondApp.exe
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\obj\Debug\CSharpIntro.SecondApp.pdb
+C:\Users\Erp-12\source\repos\CSharpIntro\CSharpIntro.SecondApp\obj\Debug\CSharpIntro.SecondApp.csprojAssemblyReference.cache
