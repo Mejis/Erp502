@@ -11,6 +11,9 @@ namespace CSharpIntro.FirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("FirstApp");
+            Console.WriteLine("FirstApp");
+            Console.WriteLine("FirstApp");
+            Console.WriteLine("FirstApp");
 
             //VERİ TİPLERİ
 
